@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kiruthika Car Manufacturing - Premium E-commerce",
+  "description": "A high-end car e-commerce platform featuring luxury models, a seamless shopping cart, and an AI-powered car concierge for personalized recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
